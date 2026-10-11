@@ -35,6 +35,3 @@ LoRA 报告汇总十阶段工作；rsLoRA 与 Differential Transformer 按六阶
 
 本仓库仅上传独立报告及文件清单。原论文只提供来源链接，不上传论文 PDF；模型权重、数据集和完整实验归档不包含在此次上传中。
 
-## 文件校验
-
-[manifest.json](manifest.json) 记录三份报告的相对路径、字节数、SHA-256 和页数。上传文件与本地最终修订稿逐字节一致。
