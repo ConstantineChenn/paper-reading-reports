@@ -1,0 +1,20 @@
+[
+  {
+    "path": "reports/LoRA/LoRA_精读与复现报告_修订版_20261011.docx",
+    "bytes": 143251,
+    "sha256": "52842b2e2e02df38ff4f2e43c268ffe31adc3055ecc6854dc0e74750c408461f",
+    "pages": 16
+  },
+  {
+    "path": "reports/rsLoRA/rsLoRA_精读与复现报告_修订版_20261011.docx",
+    "bytes": 164772,
+    "sha256": "1b5c8aa5a25c00ae2caece98402c58463f110271e5fdec106482a486ebeb612c",
+    "pages": 12
+  },
+  {
+    "path": "reports/DifferentialTransformer/DifferentialTransformer_精读与复现报告_修订版_20261011.docx",
+    "bytes": 274530,
+    "sha256": "d18de9de4f135e5a32e035fbff1c96be80ec5c44f5eb1e20c63ba7a0bbda817d",
+    "pages": 14
+  }
+]
